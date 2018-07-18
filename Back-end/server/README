@@ -1,0 +1,16 @@
+CMPE 434 Project 2
+Server backend for an Andriod chat room application
+
+README
+
+To get the server up and running you will first need to install node.js along with mongodb. 
+Once node.js is installed on your computer run the following command in the same directory 
+as the package.json file, to install the necessary dependancies:
+
+$	npm install
+
+Once the modules are installed run the server with the command:
+
+$ node server.js
+
+The server will now be running on the localhost of your machine on port 3000.
